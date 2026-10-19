@@ -37,4 +37,4 @@ O sistema terá as seguintes classes:
 
 As classes Cliente e Tecnico herdam os atributos e métodos da classe Usuario. A classe OrdemServico se relaciona com Cliente para registrar quem solicitou o serviço.
 
-#<img width="552" height="832" alt="Diagrama de Entidades" src="https://github.com/user-attachments/assets/0827eba4-7c09-4e4c-b6be-d105461c2c2a" />
+<img width="1215" height="1295" alt="Diagrama" src="https://github.com/user-attachments/assets/23962f51-18c8-479e-bf59-626005952a5e" />
