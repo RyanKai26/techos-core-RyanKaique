@@ -38,3 +38,10 @@ O sistema terá as seguintes classes:
 As classes Cliente e Tecnico herdam os atributos e métodos da classe Usuario. A classe OrdemServico se relaciona com Cliente para registrar quem solicitou o serviço.
 
 <img width="1215" height="1295" alt="Diagrama" src="https://github.com/user-attachments/assets/23962f51-18c8-479e-bf59-626005952a5e" />
+
+## Momento 3 — Implementação
+
+- Classes orientadas a objetos em PHP.
+- Factory Method implementado em UsuarioFactory.
+- Singleton implementado em GerenciadorOS.
+- Teste realizado com sucesso.
