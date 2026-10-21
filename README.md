@@ -45,3 +45,7 @@ As classes Cliente e Tecnico herdam os atributos e métodos da classe Usuario. A
 - Factory Method implementado em UsuarioFactory.
 - Singleton implementado em GerenciadorOS.
 - Teste realizado com sucesso.
+## Implementação PHP
+
+Projeto desenvolvido para praticar POO,
+Factory Method e Singleton.
